@@ -1,8 +1,7 @@
 # Portfolio QA – Rocío Martínez Veloso 
 Este portafolio web muestra mis proyectos de **QA**. Incluye un **formulario de contacto** conectado a una API que permite guardar los datos del formulario en la base de datos y mostrarlos en la página de Admin.
 
-🔗 [Ver Web Portfolio QA](https://bootcamp-qa.github.io/template-portfolioqa/)
-
+🔗 [Ver Web Portfolio QA](https://rmarvel23.github.io/qa-profile/)
 
 ## ⚙️ Funcionalidades principales
 - Menú de navegación
