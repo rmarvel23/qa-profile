@@ -1,12 +1,12 @@
 body {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
   font-size: 1rem;
   color: black;
   margin: 0;
 }
 
 header {
-  background-color: rgb(7, 167, 153);
+  background-color: rgb(114, 79, 237);
   color: white;
   padding: 5rem;
   text-align: center;
@@ -95,7 +95,7 @@ select {
 button {
   width: 100%;
   padding: 1rem;
-  background-color: #02463a;
+  background-color: #2cb8d8;
   color: white;
   border: none;
   border-radius: 0.5rem;
@@ -106,7 +106,7 @@ footer {
   margin-top: 2rem;
   padding: 1rem;
   font-size: 0.9rem;
-  color: #777;
+  color: #180278;
   text-align: center;
 }
 
